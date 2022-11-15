@@ -1,0 +1,36 @@
+{
+  "name": "template-next.js",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.25",
+    "axios": "^0.21.1",
+    "next": "12",
+    "next-connect": "^0.10.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-switch": "^7.0.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@types/react": "17.0.11",
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "7.28.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import-helpers": "^1.1.0",
+    "eslint-plugin-prettier": "^3.2.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1",
+    "typescript": "4.3.2"
+  }
+}
